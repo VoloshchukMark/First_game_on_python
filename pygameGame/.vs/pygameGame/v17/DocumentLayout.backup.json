@@ -17,11 +17,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -40,9 +44,9 @@
               "Title": "pygameGame.py",
               "DocumentMoniker": "D:\\Hobby\\GameDev\\First_game_on_python\\pygameGame\\pygameGame\\pygameGame.py",
               "RelativeDocumentMoniker": "pygameGame\\pygameGame.py",
-              "ToolTip": "D:\\Hobby\\GameDev\\First_game_on_python\\pygameGame\\pygameGame\\pygameGame.py",
-              "RelativeToolTip": "pygameGame\\pygameGame.py",
-              "ViewState": "AgIAACgAAAAAAAAAAAAowDgAAAAZAAAAAAAAAA==",
+              "ToolTip": "D:\\Hobby\\GameDev\\First_game_on_python\\pygameGame\\pygameGame\\pygameGame.py*",
+              "RelativeToolTip": "pygameGame\\pygameGame.py*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-03-14T19:15:07.591Z",
               "EditorCaption": ""

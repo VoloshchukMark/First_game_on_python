@@ -29,6 +29,57 @@
     <InterpreterReference Include="Global|PythonCore|3.13" />
     <InterpreterReference Include="Global|PythonCore|3.9" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="sprites\" />
+    <Folder Include="sprites\bg\" />
+    <Folder Include="sprites\enemy\" />
+    <Folder Include="sprites\player\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sprites\bg\bg.jpg" />
+    <Content Include="sprites\enemy\L10E.png" />
+    <Content Include="sprites\enemy\L11E.png" />
+    <Content Include="sprites\enemy\L1E.png" />
+    <Content Include="sprites\enemy\L2E.png" />
+    <Content Include="sprites\enemy\L3E.png" />
+    <Content Include="sprites\enemy\L4E.png" />
+    <Content Include="sprites\enemy\L5E.png" />
+    <Content Include="sprites\enemy\L6E.png" />
+    <Content Include="sprites\enemy\L7E.png" />
+    <Content Include="sprites\enemy\L8E.png" />
+    <Content Include="sprites\enemy\L9E.png" />
+    <Content Include="sprites\enemy\R1.png" />
+    <Content Include="sprites\enemy\R10E.png" />
+    <Content Include="sprites\enemy\R11E.png" />
+    <Content Include="sprites\enemy\R1E.png" />
+    <Content Include="sprites\enemy\R2E.png" />
+    <Content Include="sprites\enemy\R3E.png" />
+    <Content Include="sprites\enemy\R4E.png" />
+    <Content Include="sprites\enemy\R5E.png" />
+    <Content Include="sprites\enemy\R6E.png" />
+    <Content Include="sprites\enemy\R7E.png" />
+    <Content Include="sprites\enemy\R8E.png" />
+    <Content Include="sprites\enemy\R9E.png" />
+    <Content Include="sprites\player\L1.png" />
+    <Content Include="sprites\player\L2.png" />
+    <Content Include="sprites\player\L3.png" />
+    <Content Include="sprites\player\L4.png" />
+    <Content Include="sprites\player\L5.png" />
+    <Content Include="sprites\player\L6.png" />
+    <Content Include="sprites\player\L7.png" />
+    <Content Include="sprites\player\L8.png" />
+    <Content Include="sprites\player\L9.png" />
+    <Content Include="sprites\player\R1.png" />
+    <Content Include="sprites\player\R2.png" />
+    <Content Include="sprites\player\R3.png" />
+    <Content Include="sprites\player\R4.png" />
+    <Content Include="sprites\player\R5.png" />
+    <Content Include="sprites\player\R6.png" />
+    <Content Include="sprites\player\R7.png" />
+    <Content Include="sprites\player\R8.png" />
+    <Content Include="sprites\player\R9.png" />
+    <Content Include="sprites\player\standing.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
        Visual Studio and specify your pre- and post-build commands in
