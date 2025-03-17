@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Hobby\\GameDev\\First_game_on_python\\pygameGame\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEF88F6-1206-4059-9D38-979DBAA0A66B}|pygameGame\\pygameGame.pyproj|D:\\Hobby\\GameDev\\First_game_on_python\\pygameGame\\pygameGame\\pygameGame.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1BEF88F6-1206-4059-9D38-979DBAA0A66B}|pygameGame\\pygameGame.pyproj|solutionrelative:pygameGame\\pygameGame.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pygameGame.py",
+              "DocumentMoniker": "D:\\Hobby\\GameDev\\First_game_on_python\\pygameGame\\pygameGame\\pygameGame.py",
+              "RelativeDocumentMoniker": "pygameGame\\pygameGame.py",
+              "ToolTip": "D:\\Hobby\\GameDev\\First_game_on_python\\pygameGame\\pygameGame\\pygameGame.py",
+              "RelativeToolTip": "pygameGame\\pygameGame.py",
+              "ViewState": "AgIAABQAAAAAAAAAAAAtwCcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-16T21:29:20.901Z",
+              "EditorCaption": ""
             }
           ]
         }
